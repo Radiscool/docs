@@ -17,6 +17,6 @@ export default defineConfig({
 			],
 		}),
 	],
-	site: 'https://radiscool.github.io',
-	base: '/Radiscool/docs',
+	site: 'https://radiscool.github.io/docs/',
+	base: '/docs',
 });
