@@ -10,7 +10,7 @@ export default defineConfig({
 				{
 					label: 'Guides',
 					items: [
-						// Each item here is one entry in the navigation menu.
+						{ label: 'Pour commencer', link: '/guides/getstarted/' },
 						{ label: 'Android', link: '/guides/android/' },
 					],
 				},

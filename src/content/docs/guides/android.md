@@ -43,4 +43,4 @@ Lien d'installation pour le Play Store : https://play.google.com/store/apps/deta
 
 En ouvrant l'application elle vous demandera d'avoir les autorisations pour accèder au calendrier et aux contacts. Vous pouvez activer les deux ou seulement un seul des deux si vous voulez en utiliser un seul.
 
-Si vous vous êtes connecté via l'appli Nextcloud vous devez directement avoir la possibilité de sélectionner ce compte
+Si vous vous êtes connecté via l'appli Nextcloud vous devez directement avoir la possibilité de sélectionner ce compte et vous allez pouvoir synchroniser vos contacts et votre calendrier avec votre téléphone.
